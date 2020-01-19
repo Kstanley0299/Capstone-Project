@@ -1,0 +1,9 @@
+[07-Apr-2019 19:47:46 America/Chicago] PHP Parse error:  syntax error, unexpected '$permission_err' (T_VARIABLE) in /home/groupb19/public_html/Milestone_3/Master/admin1066/enternewusers.php on line 18
+[07-Apr-2019 20:56:14 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'menuid' in 'where clause'' in /home/groupb19/public_html/Milestone_3/Master/admin1066/updateitem.php:24
+Stack trace:
+#0 /home/groupb19/public_html/Milestone_3/Master/admin1066/updateitem.php(24): PDOStatement->execute()
+#1 {main}
+  thrown in /home/groupb19/public_html/Milestone_3/Master/admin1066/updateitem.php on line 24
+[08-Apr-2019 13:23:05 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/groupb19/public_html/Milestone_3/Master/admin1066/updateemployee.php on line 82
+[28-Apr-2019 11:35:55 America/Chicago] PHP Fatal error:  Call to a member function fetch() on null in /home/groupb19/public_html/Milestone_6/master/admin1066/insertemployee.php on line 219
+[28-Apr-2019 11:37:35 America/Chicago] PHP Fatal error:  Call to a member function fetch() on null in /home/groupb19/public_html/Milestone_6/master/admin1066/insertemployee.php on line 219
